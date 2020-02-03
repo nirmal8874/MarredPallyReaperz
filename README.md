@@ -12,5 +12,5 @@ Automating Score Cards keeping (Earlier originizers had to manually keep adding 
 
 Coaching Tool during Time out and many more.
 
-In short We desire to create a Marredpally Nba Website that can be accessed on the Mobile and solves all problem with Automation.
+In short We desire to create a Marredpally Nba Website that can be accessed on the Mobile and solves all problem with Automation..
 
